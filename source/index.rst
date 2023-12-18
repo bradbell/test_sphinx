@@ -10,7 +10,9 @@ Welcome to test-sphinx's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+A code block::
 
+   x = 1
 
 Indices and tables
 ==================
