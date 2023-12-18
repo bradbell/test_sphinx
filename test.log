@@ -1,0 +1,8 @@
+1. sphinx-quickstart
+   choose separe soruce and build directories.
+
+2. Create .gitignore
+
+2. git init
+   git branch -m main
+
