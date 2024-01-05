@@ -10,9 +10,13 @@ Welcome to test-sphinx's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-A code block::
+A Table
 
-   x = 1
+.. csv-table::
+   :header: Column 1, Column 2
+
+   entry_1_1, entry_1_2
+   entry_2_1, entry_2_2
 
 Indices and tables
 ==================
