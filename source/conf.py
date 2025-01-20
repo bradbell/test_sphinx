@@ -6,16 +6,15 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'test-sphinx'
-copyright = '2023, AU Thor'
-author = 'AU Thor'
-release = '0.0'
+project = 'test'
+copyright = '2025, AU THor'
+author = 'AU THor'
+release = '0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = [ 
-]
+extensions = []
 
 templates_path = ['_templates']
 exclude_patterns = []
